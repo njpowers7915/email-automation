@@ -1,0 +1,12 @@
+{
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0",
+        "google/apiclient": "^2.7",
+        "phpoffice/phpexcel": "^1.8",
+        "phpoffice/phpspreadsheet": "^1.16",
+        "maknz/slack": "^1.7"
+    },
+    "require-dev": {
+        "symfony/dotenv": "^5.2"
+    }
+}
